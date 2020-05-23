@@ -1,2 +1,2 @@
 main: main.cpp
-	g++ main.cpp -o main -lpthread
+	g++ async.cpp main.cpp -o main -lpthread
